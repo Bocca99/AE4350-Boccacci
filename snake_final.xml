@@ -1,4 +1,4 @@
-    <!--  ================= MODEL INITIALIZATION ================= /-->
+<! This file describes the snake environment. It is based on the swimmer and ant environments>
 
 <mujoco model="snake">
 
